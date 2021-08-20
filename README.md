@@ -1,5 +1,5 @@
 # Minecraft_Block_Attack
-I coded it so that placing any blocks will hurt us
+Minecraft but placing blocks hurt us
 
 # Minecraft Block attack
 I coded it so that when you place blocks they can randomly hurt you.
